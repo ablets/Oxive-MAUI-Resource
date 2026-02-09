@@ -1,0 +1,7 @@
+{
+  "latestVersionCode": 2,
+  "latestVersionName": "1.0.2",
+  "apkUrl": "https://github.com/ablets/Oxive-MAUI-Resource/releases/download/Pre/com.oxivesolutions.CicOne.apk",
+  "mandatory": true,
+  "changelog": "Bug fixes and performance improvements"
+}
