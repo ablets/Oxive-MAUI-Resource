@@ -9,9 +9,10 @@
     "android": 2,
     "windows": 102
   },
-  "mandatory": false,
+  "mandatory": true,
   "changelog": "Bug fixes and performance improvements"
 }
+
 
 
 
