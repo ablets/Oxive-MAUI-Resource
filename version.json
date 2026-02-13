@@ -1,7 +1,7 @@
 {
   "latestVersionName": "1.0.3",
   "downloadUrls": {
-    "android": "https://github.com/ablets/Oxive-MAUI-Resource/releases/download/v2/com.oxivesolutions.CicOne-V2-signed-202602110946.apk",
+    "android": "https://github.com/ablets/Oxive-MAUI-Resource/releases/download/v3/com.oxivesolutions.CicOne-V3-signed-202602131213.apk",
     "windows": "https://github.com/ablets/Oxive-MAUI-Resource/releases/download/Pre/com.oxivesolutions.CicOne.exe",
     "ios": "https://apps.apple.com/app/..."
   },
@@ -12,6 +12,7 @@
   "mandatory": true,
   "changelog": "Bug fixes and performance improvements"
 }
+
 
 
 
